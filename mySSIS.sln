@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "mySSIS", "mySSIS\mySSIS.dtproj", "{EBF1FDDB-CA8A-454A-9DD4-5660FC06FFB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF1FDDB-CA8A-454A-9DD4-5660FC06FFB2}.Development|Default.ActiveCfg = Development
+		{EBF1FDDB-CA8A-454A-9DD4-5660FC06FFB2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3773A2D5-8C07-471B-B84C-FD9A7ECECF9D}
+	EndGlobalSection
+EndGlobal
